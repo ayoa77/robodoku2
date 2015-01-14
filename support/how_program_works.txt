@@ -1,0 +1,8 @@
+iterate through each spot and reject the values that are already present in either it's row, column or block of 3x3
+
+that will give each spot its remaining possibilities
+
+spot replaces its empty value if there is only one possibility left 
+else
+continues to the next spot
+repeat 
